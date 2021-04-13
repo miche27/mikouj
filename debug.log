@@ -1,0 +1,4 @@
+[0902/145232.494:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[0902/172610.928:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
+[0902/231910.952:ERROR:file_io.cc(135)] WriteFile: Le canal de communication est sur le point d’être fermé. (0xE8)
+[0903/022840.738:ERROR:file_io.cc(135)] WriteFile: Le canal de communication est sur le point d’être fermé. (0xE8)
